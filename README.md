@@ -8,7 +8,7 @@ BirdDrone is a deep learning-based system designed to detect and classify drones
 
 ### Key Features
 
-- **Real-Time Detection:** Identifies and classifies drones and birds in real-time with a detection precision of 0.70.
+- **Real-Time Detection:** Identifies and classifies drones and birds in real-time with a detection precision of 0.93.
 - **Interactive Web Application:** Developed using **React** for the frontend and **Flask** for the backend.
 - **Multiple Detection Models:** Combines **YOLO** for rapid detection and **Faster R-CNN** for higher accuracy.
 - **Efficient Tracking:** Uses **DeepSORT** for persistent tracking in dynamic environments.
